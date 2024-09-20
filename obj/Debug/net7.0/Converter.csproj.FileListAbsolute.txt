@@ -1,0 +1,15 @@
+D:\Files\C#\Converter\Converter\bin\Debug\net7.0\Converter.exe
+D:\Files\C#\Converter\Converter\bin\Debug\net7.0\Converter.deps.json
+D:\Files\C#\Converter\Converter\bin\Debug\net7.0\Converter.runtimeconfig.json
+D:\Files\C#\Converter\Converter\bin\Debug\net7.0\Converter.dll
+D:\Files\C#\Converter\Converter\bin\Debug\net7.0\Converter.pdb
+D:\Files\C#\Converter\Converter\obj\Debug\net7.0\Converter.csproj.AssemblyReference.cache
+D:\Files\C#\Converter\Converter\obj\Debug\net7.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\C#\Converter\Converter\obj\Debug\net7.0\Converter.AssemblyInfoInputs.cache
+D:\Files\C#\Converter\Converter\obj\Debug\net7.0\Converter.AssemblyInfo.cs
+D:\Files\C#\Converter\Converter\obj\Debug\net7.0\Converter.csproj.CoreCompileInputs.cache
+D:\Files\C#\Converter\Converter\obj\Debug\net7.0\Converter.dll
+D:\Files\C#\Converter\Converter\obj\Debug\net7.0\refint\Converter.dll
+D:\Files\C#\Converter\Converter\obj\Debug\net7.0\Converter.pdb
+D:\Files\C#\Converter\Converter\obj\Debug\net7.0\Converter.genruntimeconfig.cache
+D:\Files\C#\Converter\Converter\obj\Debug\net7.0\ref\Converter.dll
